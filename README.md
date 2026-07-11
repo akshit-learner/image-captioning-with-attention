@@ -207,7 +207,3 @@ pip install -r requirements.txt
 - Add additional evaluation metrics
 
 ---
-
-## License
-
-This project is intended for educational and learning purposes.
